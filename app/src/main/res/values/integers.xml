@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="saved_times_pressed_default_key">0</integer>
+    <integer name="saved_times_pressed_default_key_dash">0</integer>
+    <integer name="high_score">0</integer>
+</resources>
